@@ -1,0 +1,8 @@
+applications:
+- path: POSTaggingApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: postagging112233
+  host: postagging112233
+  disk_quota: 1024M
